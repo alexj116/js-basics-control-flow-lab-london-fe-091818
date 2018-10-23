@@ -12,5 +12,4 @@ function scuberGreetingForFeet(distance) {
   
 }
 
-function ternaryCheckCity(city) {
-  return (isMember ? "$2.00" : "$10.00");
+
